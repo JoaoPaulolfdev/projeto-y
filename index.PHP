@@ -18,7 +18,7 @@
     <script>
         let nome = "João Paulo";
         function hello(){
-            alert("Olá" +nome+", seja bem-vindo! \n"+Date())
+            alert("Olá" +nome+", seja bem-vindo!! \n"+Date())
         }
     </script>
 
